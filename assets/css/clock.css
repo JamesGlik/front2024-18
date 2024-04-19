@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+body{
+    background-color: black;
+}
+
+#clock {
+    font-size: 7rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 100;
+    color: #009bb6;
+    text-align: center;
+    margin-top: 20px;
+}
